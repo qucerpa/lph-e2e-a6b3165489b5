@@ -1,14 +1,14 @@
 {
   "protocol": "LPHBUS01",
   "projectId": "d3705d1b-6ab8-4817-b4eb-66660f7a16e6",
-  "releaseId": "f09967db5b5eb969b293679fc69238ab4940f18fd2921a8884ede0fb5101f709",
-  "sequence": 3,
-  "issuedAt": "2026-11-14T20:38:46.245Z",
-  "keyId": "eb55d8f92f67bfc47f92b7a20f10ff3c",
+  "releaseId": "0182cab2ec355c317d222ac1a6addf50d553a986868dfe201b35f96403991924",
+  "sequence": 4,
+  "issuedAt": "2026-11-14T20:58:21.955Z",
+  "keyId": "fe584d8b5a3417303d6cc175c3f6465d",
   "index": {
-    "path": "_lph/releases/f09967db5b5eb969b293679fc69238ab4940f18fd2921a8884ede0fb5101f709/business-index.enc",
+    "path": "_lph/releases/0182cab2ec355c317d222ac1a6addf50d553a986868dfe201b35f96403991924/business-index.enc",
     "size": 5787,
-    "sha256": "aed44f0194f683515a0924dbe72616e41dce60d0ea81ac6eccac86b97b8646ac"
+    "sha256": "e869a55cbd118c2a7a58211d750c310ee1093c75e57378d8b3bf8aa62faf265b"
   },
   "fileCount": 3,
   "signing": {
@@ -21,11 +21,11 @@
       "appId": "74163475-564e-4e49-996d-daebf9447e6f",
       "credentialVersion": 1,
       "algorithm": "AES-256-GCM",
-      "nonce": "qOIFJy4BGRBCaD3j",
-      "wrappedKey": "Dih0KV2qc9QLveESUFObowc7JatVTTJrmCX55vB2RKfmkM-lPWCSbOba5UpNNyCe",
-      "aad": "LPHBUS01|d3705d1b-6ab8-4817-b4eb-66660f7a16e6|74163475-564e-4e49-996d-daebf9447e6f|f09967db5b5eb969b293679fc69238ab4940f18fd2921a8884ede0fb5101f709|3|eb55d8f92f67bfc47f92b7a20f10ff3c"
+      "nonce": "vD18Jtm8mxg8qRCG",
+      "wrappedKey": "-KL6ppbvMJkaNJA4lGKGbE6osHV513CcqxgHcKZoDE3t5YTi63rra0vbGS175tK6",
+      "aad": "LPHBUS01|d3705d1b-6ab8-4817-b4eb-66660f7a16e6|74163475-564e-4e49-996d-daebf9447e6f|0182cab2ec355c317d222ac1a6addf50d553a986868dfe201b35f96403991924|4|fe584d8b5a3417303d6cc175c3f6465d"
     }
   ],
-  "status": "complete",
-  "signature": "1BBcr6ZFunlX0+FRwn8MwR5jlG8e4zbw7uJLIFO8jtWO8vAI41jv312f3UTWfVOt/xZd+IT/R3V4b6CeJmp1DQ=="
+  "status": "candidate",
+  "signature": "pzwPWupU895yORAehUoeG1B0i7SmRgnbLmNVGWnnMkmRiDuG8jvJhDVx3tWLhMonjW88Q+AZXJneAOoP6qmSCg=="
 }
