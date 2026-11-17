@@ -1,9 +1,9 @@
 {
   "protocol": "LPHBUS02",
   "projectId": "d3705d1b-6ab8-4817-b4eb-66660f7a16e6",
-  "releaseId": "903153daf642c5174964db40a7bf78a1ffd31b1b61d41bc95969f1638bd57858",
-  "sequence": 7,
-  "issuedAt": "2026-11-17T01:37:53.539Z",
+  "releaseId": "b2b8c64486457f641f276ee285bb9fdcf34af75c89fa684c0e2fc6ebe15efb77",
+  "sequence": 8,
+  "issuedAt": "2026-11-17T01:52:31.551Z",
   "keyId": "ecaa389ddf383b990f5f42302f5d7131",
   "shardRule": {
     "algorithm": "sha256",
@@ -15,15 +15,15 @@
     {
       "shardId": "42",
       "scope": "id",
-      "encryptedPath": "_lph/shards/148d58bb493fda0afe33f867e2c5a1a0efbed6be0688694766adaf4e7690a232",
+      "encryptedPath": "_lph/shards/f8cfa0a006b92bb8b3b8e172d127daee2a8a4b5386a947acc6b3afcba8ac2ef3",
       "encryptedSize": 588,
-      "encryptedSha256": "148d58bb493fda0afe33f867e2c5a1a0efbed6be0688694766adaf4e7690a232",
+      "encryptedSha256": "f8cfa0a006b92bb8b3b8e172d127daee2a8a4b5386a947acc6b3afcba8ac2ef3",
       "originalSize": 520,
-      "sourceSha256": "b467933d125d513463f37a4ad602c449379b3a6f89bfdc3194de8ba85494edb7",
+      "sourceSha256": "272955162205039948214aa87ebf7fb745c3e30ef5cf8058dc2ec8ddb331f68c",
       "decodedSize": 836,
-      "decodedSha256": "506898d93a6a4079929b1955e5cdd7ee4ac800993bc950222ea3f65558a9fa73",
+      "decodedSha256": "d6bb3ca1fd5f8c92545d5bb353d0cff337116c5d909d0c9c02f71c5b1a7aa514",
       "contentEncoding": "gzip",
-      "keyId": "532f6cb02bc74d36d19bc5249d2c4d26",
+      "keyId": "bc0281aec602afc058c723d43eb3d5c3",
       "fileCount": 1,
       "idCount": 1,
       "packCount": 1
@@ -31,15 +31,15 @@
     {
       "shardId": "da",
       "scope": "id",
-      "encryptedPath": "_lph/shards/af7fc1dab251ff17d33265a013d20ebe0236b70f59cdb90a4ecaa17c4ae2f9c6",
+      "encryptedPath": "_lph/shards/dc91eea4d2e28ac881ecb22796092d8f7aea978442de64c2cf1462750237b07e",
       "encryptedSize": 589,
-      "encryptedSha256": "af7fc1dab251ff17d33265a013d20ebe0236b70f59cdb90a4ecaa17c4ae2f9c6",
+      "encryptedSha256": "dc91eea4d2e28ac881ecb22796092d8f7aea978442de64c2cf1462750237b07e",
       "originalSize": 521,
-      "sourceSha256": "209ddc202a090dcf52836115ee765bb30014245e6050a012c872fc959c221881",
+      "sourceSha256": "18baf937223f6941f30d0aebc5803e8f9efa9b40e73fe5f5de8600548ae486a3",
       "decodedSize": 836,
-      "decodedSha256": "6928ef623c8fc929e3392038145c1cd1b7a5df41c9e0e28be4a435e975f5ceb4",
+      "decodedSha256": "708ba8e287d8a3793faab95f1605cbe53591c83115f9bfd5c3d80ab172277df4",
       "contentEncoding": "gzip",
-      "keyId": "19706a60ae99dc669115a7426a6dac6f",
+      "keyId": "f88889e7be992fd10cfb9fd631191bac",
       "fileCount": 1,
       "idCount": 1,
       "packCount": 1
@@ -63,15 +63,15 @@
     {
       "shardId": "97",
       "scope": "path",
-      "encryptedPath": "_lph/shards/64c85a9f086d28408431ce12b188408072143bd0728c1e45061a8fc3f27aafa8",
-      "encryptedSize": 551,
-      "encryptedSha256": "64c85a9f086d28408431ce12b188408072143bd0728c1e45061a8fc3f27aafa8",
-      "originalSize": 481,
-      "sourceSha256": "0bc7b5aecfa151c9541cca2f9e1ef76289df48ec5f8cec01507e6cfbebe80829",
+      "encryptedPath": "_lph/shards/a3f383efc0af4fd8153f9b404e38f1dc03ce448c69d07c7f7069637f41d65ca4",
+      "encryptedSize": 552,
+      "encryptedSha256": "a3f383efc0af4fd8153f9b404e38f1dc03ce448c69d07c7f7069637f41d65ca4",
+      "originalSize": 482,
+      "sourceSha256": "214a49beadd502f0f3b39c28aee8a831c2ede4b22a6438f0817938086966ec92",
       "decodedSize": 753,
-      "decodedSha256": "7611d4093e86ed5c11a568172f68621cc79b7d28002b22bb1e0cb992f6f8bda2",
+      "decodedSha256": "3b350559e993e49d92fcd1ce8199cbbcb7bfcdf9eb0c04c13aa9accb78771b55",
       "contentEncoding": "gzip",
-      "keyId": "2d198a90396159c2cc47930ddf8e21b6",
+      "keyId": "f4150a68a43aecb11d158aa417258e47",
       "fileCount": 1,
       "idCount": 0,
       "packCount": 1
@@ -112,9 +112,9 @@
   "fileCount": 4,
   "idCount": 2,
   "packCount": 4,
-  "totalStagedBytes": 1106,
-  "totalDecodedBytes": 1285,
-  "totalEncryptedBytes": 5464,
+  "totalStagedBytes": 1112,
+  "totalDecodedBytes": 1301,
+  "totalEncryptedBytes": 5471,
   "signing": {
     "algorithm": "Ed25519",
     "publicKey": "MCowBQYDK2VwAyEAjK1fG8XSzCWah7AkZyduifYTnvBafYZmbPu3iHS0HiI",
@@ -125,11 +125,11 @@
       "appId": "74163475-564e-4e49-996d-daebf9447e6f",
       "credentialVersion": 1,
       "algorithm": "AES-256-GCM",
-      "nonce": "Nx8-ebyti0HNQnz_",
-      "wrappedKey": "3SDa4GOdx-zL3uVT41OqyLVcll9o0gyDnELraJG9eZeV1fWLdlh_pud9l45PFcq-",
-      "aad": "LPHBUS02|d3705d1b-6ab8-4817-b4eb-66660f7a16e6|74163475-564e-4e49-996d-daebf9447e6f|903153daf642c5174964db40a7bf78a1ffd31b1b61d41bc95969f1638bd57858|7|ecaa389ddf383b990f5f42302f5d7131"
+      "nonce": "ncGkb8-hilcIHpKb",
+      "wrappedKey": "3c-_5MOFwDKLLcFJRhRcFH1OLpOgXbCdg_rs0t2Um4B8ibG2hZipCur5eq58MfRY",
+      "aad": "LPHBUS02|d3705d1b-6ab8-4817-b4eb-66660f7a16e6|74163475-564e-4e49-996d-daebf9447e6f|b2b8c64486457f641f276ee285bb9fdcf34af75c89fa684c0e2fc6ebe15efb77|8|ecaa389ddf383b990f5f42302f5d7131"
     }
   ],
-  "status": "complete",
-  "signature": "atubhFnxbnGrmdGivR4hyb0TWLIDfTQHqKS7Fr7zPQp3qNEp2pqEtClX8UJHZPiXfhjMfHvYnP+ij8kse5G4CQ=="
+  "status": "candidate",
+  "signature": "WOvRUWYJmXXAZLWp3fvZrzUZxQqzMoubNfCAXenvn/d39W4JinrGOFt1MY8uOQPqxzRVYEMkq7Ryi/u82rLFAg=="
 }
